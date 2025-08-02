@@ -12,7 +12,7 @@
 
 - 🛠️ I'm currently developing: **CyberSentinel** – a hacking & security toolkit.
 - 💡 Interests: **Penetration Testing, Bash Scripting, Flask Web Apps**
-- 📫 Reach me at: `yourmail@example.com`
+- 📫 Reach me at: `khenzlcasher@gmail.com`
 - ⚡ Fun fact: I love building CLI tools with cool ASCII banners 😎
 
 ---
@@ -33,15 +33,15 @@
 
 ### 🔐 Multi Decrypter
 > Powerful hash decryption tool with local wordlist & online API support  
-🔗 [View Repo](https://github.com/yourusername/multi-decrypter)
+🔗 [View Repo](https://github.com/khenzl/multi-decrypter)
 
 ### 🌐 OPRScan
 > Web recon & domain intelligence toolkit for ethical hacking  
-🔗 [View Repo](https://github.com/yourusername/oprscan)
+🔗 [View Repo](https://github.com/khenzl/oprscan)
 
 ### 🧰 Localhost Panel
 > Elegant panel for managing scripts and logging via browser  
-🔗 [View Repo](https://github.com/yourusername/localhost-panel)
+🔗 [View Repo](https://github.com/khenzl/localhost-panel)
 
 ---
 
@@ -51,14 +51,14 @@
 |---------|------------|
 | 🧪 Pull Shark | Pernah merge pull request |
 | 🐣 Arctic Code Vault | Kontributor yang kodenya disimpan ke arsip es |
-| 🧠 Yolo | Pernah push langsung ke main 😅 |
+| 🧠 Yolo | Pernah push langsung ke main 😎 |
 | ✨ Galaxy Brain | Pernah buat diskusi atau PR yang sangat bermanfaat |
 
 _👉 Asli-nya akan muncul otomatis di profil GitHub_
 
 ---
 
-## 🧑‍💼 Organizations (Dummy)
+## 🧑‍💼 Organizations
 
 <p align="center">
   <a href="https://github.com/orgs/CyberTermux" target="_blank">
@@ -76,13 +76,13 @@ _👉 Asli-nya akan muncul otomatis di profil GitHub_
 > 🚧 Sponsors belum diaktifkan. Kamu bisa dukung saya lewat platform berikut:
 
 <p align="center">
-  <a href="https://saweria.co/yourusername">
+  <a href="https://saweria.co/khenzl">
     <img src="https://img.shields.io/badge/Saweria-Donate-orange?style=for-the-badge&logo=buymeacoffee" />
   </a>
-  <a href="https://ko-fi.com/yourusername">
+  <a href="https://ko-fi.com/khenzl">
     <img src="https://img.shields.io/badge/Ko--fi-Support_Me-29ABE0?style=for-the-badge&logo=kofi" />
   </a>
-  <a href="https://github.com/sponsors/yourusername">
+  <a href="https://github.com/sponsors/khenzl">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-❤-pink?style=for-the-badge&logo=githubsponsors" />
   </a>
 </p>
@@ -92,11 +92,11 @@ _👉 Asli-nya akan muncul otomatis di profil GitHub_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khenzl&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khenzl&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khenzl&theme=tokyonight" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ _👉 Asli-nya akan muncul otomatis di profil GitHub_
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/khenzl/khenzl/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -112,16 +112,16 @@ _👉 Asli-nya akan muncul otomatis di profil GitHub_
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/khenzl">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="khenzlcasher@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/okenpr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/khenzl">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
