@@ -43,6 +43,38 @@
 > Elegant panel for managing scripts and logging via browser  
 🔗 [View Repo](https://github.com/khenzl/localhost-panel)
 
+### 💻 MALEA
+> Advanced phishing engine with interactive menu and modular system  
+🔗 [View Repo](https://github.com/khenzl/malea)
+
+### 🛡️ Admin-Clash
+> Panel detection & bypass tool for identifying vulnerable admin panels  
+🔗 [View Repo](https://github.com/khenzl/admin-clash)
+
+### 📸 Hack-Cam
+> Tool to capture images from target devices using social engineering  
+🔗 [View Repo](https://github.com/khenzl/hack-cam)
+
+### 🌀 IP-Cute
+> IP address manipulation and obfuscation toolkit  
+🔗 [View Repo](https://github.com/khenzl/ip-cute)
+
+### 🎯 Track
+> Fast and simple IP & GPS tracking utility for Termux  
+🔗 [View Repo](https://github.com/khenzl/track)
+
+### 🔍 MY-Dorck
+> Google Dorking toolkit to automate sensitive info discovery  
+🔗 [View Repo](https://github.com/khenzl/my-dorck)
+
+### 🐍 Snake-Eye
+> Real-time terminal surveillance toolkit with motion detection  
+🔗 [View Repo](https://github.com/khenzl/snake-eye)
+
+### 🧠 Wordlist-Zen
+> Smart wordlist generator with filters, frequency analysis & combos  
+🔗 [View Repo](https://github.com/khenzl/wordlist-zen)
+
 ---
 
 ## 🏆 Achievements (Statis Dummy)
