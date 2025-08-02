@@ -101,14 +101,6 @@ _👉 Asli-nya akan muncul otomatis di profil GitHub_
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khenzl/khenzl/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
