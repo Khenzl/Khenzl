@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 Achievements (Statis Dummy)
+## 🏆 Achievements (Statis)
 
 | 🏅 Badge | Keterangan |
 |---------|------------|
