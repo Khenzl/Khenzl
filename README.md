@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Khenzl+Casher;Cybersecurity+%7C+SANG TOPI HITAM;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Khenzl+Casher;Cybersecurity+%7C+SANG+TOPI+HITAM;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Khenzl Casher</h1>
