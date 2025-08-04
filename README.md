@@ -37,7 +37,7 @@
 
 ### 🌐 OPRScan
 > Web recon & domain intelligence toolkit for ethical hacking  
-🔗 [View Repo](https://github.com/khenzl/oprscan)
+🔗 [View Repo](https://github.com/khenzl/opr-scan)
 
 ### 🧰 Localhost Panel
 > Elegant panel for managing scripts and logging via browser  
